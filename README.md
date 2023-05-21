@@ -3,6 +3,7 @@ This is a music app built using HTML, CSS, and JavaScript. The app allows users 
 
 ## Live Demo
 You can try out the live demo of the music app here.
+https://abhijithram.github.io/Music-Player-app/
 
 ## Features
 Play/pause music tracks
